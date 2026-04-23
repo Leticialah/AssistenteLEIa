@@ -130,13 +130,16 @@ A documentação do projeto foi criada utilizando **MkDocs**.
 
 docs/
 Para visualizar localmente:
-
 ```bash
 pip install mkdocs mkdocs-material
 python -m mkdocs serve
+```
+Acesse no navegador:
+```text
+http://127.0.0.1:8000
+```
 
-Acesso no navegador: http://127.0.0.1:8000
-
+---
 
 ## 💻 Interface
 

@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Perfil local do navegador / dados sensíveis
+chrome_profile/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db

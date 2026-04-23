@@ -1,0 +1,10 @@
+site_name: Assistente LEIa
+site_description: Sistema de monitoramento de valores com alerta por e-mail
+theme:
+  name: material
+
+nav:
+  - Início: index.md
+  - Como usar: uso.md
+  - Funcionamento: funcionamento.md
+  - Código: codigo.md

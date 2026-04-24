@@ -50,6 +50,7 @@ O sistema entra em loop, realizando:
 - Atualização da página
 - Nova leitura do valor
 - Comparação com o valor anterior
+- Registro das ações e leituras no log
 
 ---
 
@@ -68,7 +69,7 @@ Ao detectar alteração:
 
 - O sistema abre o Gmail
 - Cria uma nova mensagem
-- Insere o conteúdo automaticamente
+- Insere automaticamente o valor antigo e o novo valor
 - Aciona o botão de envio
 
 ---

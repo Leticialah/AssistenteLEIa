@@ -48,14 +48,14 @@ Responsável por:
 
 ---
 
-### send_email()
+### send_gmail_message()
 
 Responsável por:
 
 - Abrir o Gmail
 - Criar uma nova mensagem
 - Inserir destinatário e conteúdo
-- Acionar o envio
+- Acionar o botão de envio
 
 ---
 

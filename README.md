@@ -100,11 +100,6 @@ O sistema registra:
 
 Atualmente, o sistema pode ser testado manualmente através da interface.
 
-Sugestões de testes automatizados:
-- Validação de nome do usuário  
-- Extração de número via regex  
-- Validação de configurações  
-
 ---
 
 ## 🛠️ Tecnologias utilizadas
